@@ -25,7 +25,7 @@ Include the commands used in the Experiment.
 ## OUTPUT
 ### REG NUMBER: 212223220094
 ### NAME: SANJAY K
-![Screenshot (155)](https://github.com/user-attachments/assets/e6532dc6-f801-4ba9-bece-f4cbc57ac4de)
+![426859931-e6532dc6-f801-4ba9-bece-f4cbc57ac4de (1)_page-0001](https://github.com/user-attachments/assets/a417c7e3-0bde-4519-9e21-938adcf32999)
 ![Screenshot (63)](https://github.com/user-attachments/assets/070c37e3-dc20-4056-80a8-a15933880198)
 
 
